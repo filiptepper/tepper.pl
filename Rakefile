@@ -55,6 +55,6 @@ task :render => 'jekyll:initialize' do
 end
 
 task :publish => ['render'] do
-  puts `rsync -ave ssh build/* tepper.pl:/var/www/killingcreativity.com`
+  puts `rsync -ave ssh build/* tepper.pl:/var/www/tepper.pl`
   `curl "http://www.google.com/webmasters/tools/ping?sitemap=http%3A%2F%2Ftepper.pl%2Fsitemap.xml"`
 end
