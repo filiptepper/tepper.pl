@@ -1,0 +1,45 @@
+body {
+	background-color: rgb(55, 55, 59);
+	color: rgb(232, 232, 232);
+	font-family: 'Lucida Grande';
+}
+
+a, a:hover, a:visited {
+	color: rgb(232, 232, 232);
+}
+
+#content {
+	background-color: rgb(25, 25, 29);
+	font-size: 0.60em;
+	margin: 0 auto;
+	padding: 10px;
+	width: 250px;
+	text-align: right;
+}
+
+#content h1 {
+	font-variant: normal;
+	font-size: 3.5em;
+	text-align: center;
+	margin: 10px 0;
+	text-transform: uppercase;
+}
+
+#content h2 {
+	color: rgb(132, 132, 132);
+	text-transform: lowercase;
+}
+
+#content p {
+    line-height: 1.5em;
+	text-transform: lowercase;
+}
+
+#content .strong {
+	color: #cccc00;
+	font-weight: bold;
+}
+
+.clear {
+	clear: both;
+}
