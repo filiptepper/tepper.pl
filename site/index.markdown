@@ -1,7 +1,7 @@
 ---
 layout: default
-title: "killingcreativity.com"
-description: "killingcreativity.com"
+title: "tepper.pl"
+description: "tepper.pl"
 ---
 <img src="/images/hot-or-not.jpg"  alt='hot-or-not' />
 
@@ -31,7 +31,7 @@ Currently employed as a Senior Consultant, Ruby on Rails development at <a href=
   <a href="http://workingwithrails.com/person/18976-filip-tepper">Working With Rails</a>
   <br /><br />
   <a href="http://filiptepper.com/">Blog</a>
-  <a href="http://killingcreativity.com/">Blog</a>
+  <a href="http://tepper.pl/">Blog</a>
   <br />
   <br />
   <a href="http://filiptepper.blip.pl/">Blip</a>

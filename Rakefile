@@ -56,5 +56,5 @@ end
 
 task :publish => ['render'] do
   puts `rsync -ave ssh build/* tepper.pl:/var/www/killingcreativity.com`
-  `curl "http://www.google.com/webmasters/tools/ping?sitemap=http%3A%2F%2Ftomafro.net%2Fsitemap.xml"`
+  `curl "http://www.google.com/webmasters/tools/ping?sitemap=http%3A%2F%2Ftepper.pl%2Fsitemap.xml"`
 end

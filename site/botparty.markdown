@@ -1,7 +1,7 @@
 ---
 layout: default
-title: "killingcreativity.com"
-description: "killingcreativity.com"
+title: "tepper.pl"
+description: "tepper.pl"
 ---
 <h1>Bot Party</h1>
 <h2>What is the Bot Party?</h2>
